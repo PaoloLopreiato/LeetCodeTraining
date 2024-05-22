@@ -24,5 +24,3 @@ class Solution:
             return False 
         
         return dfs(0, 0)
-
-                
